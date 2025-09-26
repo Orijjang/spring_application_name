@@ -1,1 +1,1 @@
-# spring_application_name
+# spring-github-actions-app
